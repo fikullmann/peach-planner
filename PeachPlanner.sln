@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeachPlanner.API", "PeachPlanner.API\PeachPlanner.API.csproj", "{3138763A-11CE-4C79-B791-458EB2730772}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeachPlanner.Infrastructure", "PeachPlanner.Infrastructure\PeachPlanner.Infrastructure.csproj", "{36490537-A74B-4448-A620-6FDA1FC14B51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3138763A-11CE-4C79-B791-458EB2730772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3138763A-11CE-4C79-B791-458EB2730772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3138763A-11CE-4C79-B791-458EB2730772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3138763A-11CE-4C79-B791-458EB2730772}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36490537-A74B-4448-A620-6FDA1FC14B51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36490537-A74B-4448-A620-6FDA1FC14B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36490537-A74B-4448-A620-6FDA1FC14B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36490537-A74B-4448-A620-6FDA1FC14B51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

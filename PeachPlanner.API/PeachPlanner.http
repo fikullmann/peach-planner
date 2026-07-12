@@ -1,0 +1,6 @@
+@PeachPlanner_HostAddress = http://localhost:5151
+
+GET {{PeachPlanner_HostAddress}}/todoitems/
+Accept: application/json
+
+###
